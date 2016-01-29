@@ -1,0 +1,6 @@
+Darn, forgot the time.
+
+Five minutes left :(
+
+Anyway, I wanted to make a shader for the water and after some experimenting I wanted to shade a render texture with a cell like outline shader for the main camera.
+
